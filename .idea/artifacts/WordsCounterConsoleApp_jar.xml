@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WordsCounterConsoleApp:jar">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="WordsCounterConsoleApp.jar">
+      <element id="module-output" name="WordsCounterConsoleApp" />
+    </root>
+  </artifact>
+</component>
